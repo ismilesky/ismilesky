@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismilesky)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+-->
+
+
+![ismilesky's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismilesky&layout=compact&hide_border=true&langs_count=10)
+
